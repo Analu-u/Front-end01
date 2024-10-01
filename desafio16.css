@@ -3,8 +3,8 @@ body{
     min-height: 100vh;
     background: linear-gradient(90deg,#03c5c5 0%,#9fddd3 100%);
     display: flex;
-    justfy-content: center; 
-    aline-itens: center;
+    justify-content: center; 
+    align-items: center;
 }
 .tela{
     background-color: #fafafa;
